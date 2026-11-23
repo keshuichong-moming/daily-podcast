@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>每日开源播客</title>
+    <link>https://keshuichong-moming.github.io/daily-podcast/</link>
+    <atom:link href="https://keshuichong-moming.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <description>每天 10–15 分钟，用说人话的方式聊过去 24 小时 AI Agent、开源黑马与实用开发工具。</description>
+    <lastBuildDate>Mon, 23 Nov 2026 12:34:00 +0800</lastBuildDate>
+    <itunes:author>打瞌睡</itunes:author>
+    <itunes:summary>每天 10–15 分钟，用说人话的方式聊过去 24 小时 AI Agent、开源黑马与实用开发工具。</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://keshuichong-moming.github.io/daily-podcast/cover.jpg" />
+    <itunes:category text="Technology" />
+
+  </channel>
+</rss>
