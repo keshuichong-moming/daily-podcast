@@ -26,8 +26,8 @@
 本期为全自动播客流水线试播测试，用于验证从本地写稿提交、后台自动合成 MP3 音频到更新苹果播客 RSS 订阅源并推送上线的完整流程。</itunes:summary>
       <pubDate>Mon, 23 Nov 2026 08:00:00 +0800</pubDate>
       <guid isPermaLink="false">daily-podcast-2026-11-23</guid>
-      <enclosure url="https://keshuichong-moming.github.io/daily-podcast/episodes/2026-11-23.mp3" length="287495" type="audio/mpeg" />
-      <itunes:duration>00:00:24</itunes:duration>
+      <enclosure url="https://keshuichong-moming.github.io/daily-podcast/episodes/2026-11-23.mp3" length="250819" type="audio/mpeg" />
+      <itunes:duration>00:00:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
