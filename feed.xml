@@ -9,13 +9,27 @@
     <atom:link href="https://keshuichong-moming.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <language>zh-cn</language>
     <description>每天 10–15 分钟，用说人话的方式聊过去 24 小时 AI Agent、开源黑马与实用开发工具。</description>
-    <lastBuildDate>Mon, 23 Nov 2026 12:34:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 08:00:00 +0800</lastBuildDate>
     <itunes:author>打瞌睡</itunes:author>
     <itunes:summary>每天 10–15 分钟，用说人话的方式聊过去 24 小时 AI Agent、开源黑马与实用开发工具。</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://keshuichong-moming.github.io/daily-podcast/cover.jpg" />
     <itunes:category text="Technology" />
+    <item>
+      <title>第 0 期：全自动每日播客试播验收</title>
+      <description># 第 0 期：全自动每日播客试播验收
 
+本期为全自动播客流水线试播测试，用于验证从本地写稿提交、后台自动合成 MP3 音频到更新苹果播客 RSS 订阅源并推送上线的完整流程。</description>
+      <itunes:summary># 第 0 期：全自动每日播客试播验收
+
+本期为全自动播客流水线试播测试，用于验证从本地写稿提交、后台自动合成 MP3 音频到更新苹果播客 RSS 订阅源并推送上线的完整流程。</itunes:summary>
+      <pubDate>Mon, 23 Nov 2026 08:00:00 +0800</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-11-23</guid>
+      <enclosure url="https://keshuichong-moming.github.io/daily-podcast/episodes/2026-11-23.mp3" length="287495" type="audio/mpeg" />
+      <itunes:duration>00:00:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
