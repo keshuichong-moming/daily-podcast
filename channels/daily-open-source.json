@@ -1,0 +1,31 @@
+{
+  "id": "daily-open-source",
+  "title": "每日开源播客",
+  "author": "打瞌睡",
+  "description": "每天 10–15 分钟，用说人话的方式聊过去 24 小时 AI Agent、开源黑马与实用开发工具。",
+  "language": "zh-cn",
+  "site_base": "https://keshuichong-moming.github.io/daily-podcast",
+  "output_dir": ".",
+  "episodes_dir": "episodes",
+  "feed_file": "feed.xml",
+  "index_file": "index.html",
+  "cover_file": "cover.jpg",
+  "guid_prefix": "daily-podcast-",
+  "preferences_file": "preferences.md",
+  "history_file": "history.md",
+  "state_file": ".state/built_hashes.json",
+  "category": "Technology",
+  "explicit": false,
+  "tts": {
+    "gemini_model": "gemini-3.8-flash-tts",
+    "gemini_voice_main": "Charon",
+    "gemini_voice_cohost": "Sulafat",
+    "gemini_style": "像懂技术的朋友聊天，语速自然，吐字清晰，中英混读顺滑，不要僵硬播音腔",
+    "gemini_pace_seconds": 22.0,
+    "edge_voice_main": "zh-CN-YunxiNeural",
+    "edge_voice_cohost": "zh-CN-XiaoxiaoNeural"
+  },
+  "storage": {
+    "backend": "git"
+  }
+}
