@@ -10,3 +10,11 @@
 - 热点：OpenAI GPT-6.2 用量收紧，疑进入成本控制模式
 - 热点：AMD 平台 llama.cpp 优化及基准测试
 - 热点：sqlite3_rsync 工具发布
+
+## 2026-11-28 让软件面向 Agent 命令行化，以及不再打扰人类的代码智能体
+- 项目：HKUDS/CLI-Anything（https://github.com/HKUDS/CLI-Anything）— 将桌面与系统专业软件全面命令行化并建立包管理体系，让 AI Agent 能以原生 CLI 方式高效操控底层工具
+- 项目：deepseek-ai/dsh-superagent-prototype（https://github.com/deepseek-ai/dsh-superagent-prototype）— DeepSeek 开源的主动式编程 Agent 原型，主打不打扰人类工程师注意力的克制工作流与独立会话架构
+- 项目：janestreet/agent_skills（https://github.com/janestreet/agent_skills）— 简街资本开源的标准 Agent Skill 规范实践，展示如何通过严格阶段约束实现苏格拉底式启发教学
+- 热点：谷歌发布 DeepCrossAttention 优化架构，最高提速 3 倍
+- 热点：黑五期间电商网站遭遇利用 WebRTC 绕过 CSP 的新型信用卡嗅探脚本
+- 热点：Simon Willison 发布 datasette-mcp 0.4，打通 SQLite 与模型上下文协议
